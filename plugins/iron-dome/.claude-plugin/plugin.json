@@ -1,6 +1,6 @@
 {
     "name": "iron-dome",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "Intercepts and prevents the accidental execution of destructive commands, acting as a security layer for Claude Code.",
     "author": {
         "name": "Tal Balash",
