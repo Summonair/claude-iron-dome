@@ -8,7 +8,7 @@
             "name": "iron-dome",
             "source": {
                 "source": "github",
-                "repo": "summonair/claude-iron-dome"
+                "repo": "Summonair/claude-iron-dome"
             },
             "description": "Intercepts and prevents the accidental execution of destructive commands, acting as a security layer for Claude Code.",
             "version": "0.1.0"
