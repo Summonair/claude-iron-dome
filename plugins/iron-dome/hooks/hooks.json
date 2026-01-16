@@ -11,14 +11,5 @@
                 ]
             }
         ]
-    },
-    "permissions": {
-        "ask": [
-            "Bash(git push --force:*)",
-            "Bash(git reset --hard:*)",
-            "Bash(terraform destroy:*)",
-            "Bash(cdk destroy:*)",
-            "Bash(cdk synth:*)"
-        ]
     }
 }
