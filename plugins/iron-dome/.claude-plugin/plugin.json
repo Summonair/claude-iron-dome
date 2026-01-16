@@ -12,5 +12,6 @@
         "dangerous",
         "protection",
         "iron-dome"
-    ]
+    ],
+    "hooks": "./hooks/hooks.json"
 }
