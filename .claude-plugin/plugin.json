@@ -1,0 +1,19 @@
+{
+    "name": "iron-dome",
+    "version": "0.1.0",
+    "description": "Intercepts and prevents the accidental execution of destructive commands, acting as a security layer for Claude Code.",
+    "author": {
+        "name": "Tal Balash",
+        "url": "https://github.com/summonair"
+    },
+    "homepage": "https://github.com/summonair/claude-iron-dome#readme",
+    "repository": "https://github.com/summonair/claude-iron-dome",
+    "license": "MIT",
+    "keywords": [
+        "security",
+        "dangerous",
+        "protection",
+        "iron-dome"
+    ],
+    "hooks": "../hooks/hooks.json"
+}
