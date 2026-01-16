@@ -15,5 +15,5 @@
         "protection",
         "iron-dome"
     ],
-    "hooks": "../hooks/hooks.json"
+    "hooks": "./hooks/hooks.json"
 }
